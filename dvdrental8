@@ -4,3 +4,14 @@
 	birthday DATE,
 	email VARCHAR(100)
 );
+
+2) 50 Kişilik liste https://www.mockaroo.com/ ile random oluşturuldu ve INSERT yapıldı. 
+
+3) UPDATE author
+SET name = 'Yiğit Çevik',
+	birthday = '1996-01-07',
+	email = 'yigit@mail.com'
+WHERE id = 7;
+
+4) DELETE FROM author
+WHERE name = 'Yiğit Çevik';
