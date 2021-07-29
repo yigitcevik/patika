@@ -1,0 +1,6 @@
+1) CREATE TABLE author (
+	id INTEGER,
+	name VARCHAR(50),
+	birthday DATE,
+	email VARCHAR(100)
+);
