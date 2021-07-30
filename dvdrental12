@@ -1,0 +1,17 @@
+1) SELECT COUNT(*) FROM film
+WHERE length > 
+(
+	SELECT AVG(length) FROM film
+);
+
+2) SELECT COUNT(*) FROM film
+WHERE rental_rate >=
+(
+	SELECT MAX(rental_rate) FROM film
+);
+
+3) SELECT title, ((SELECT MIN(rental_rate) FROM film)) AS min_ren, 
+((SELECT MIN(replacement_cost) FROM film)) AS min_rep  FROM film;
+
+4) SELECT customer.first_name, customer.last_name, payment.amount FROM customer
+INNER JOIN payment ON customer.customer_id = payment.customer_id;
