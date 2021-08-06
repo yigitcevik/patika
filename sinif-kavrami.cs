@@ -21,22 +21,22 @@ namespace sinif_kavrami
             calisan2.Departman = "Satın Alma";
 
             calisan2.CalisanBilgileri();
-        }
+        }        
+    }
+    
+    class Calisan 
+    {
+        public string Ad;
+        public string Soyad;
+        public int  No;
+        public string Departman;
 
-        class Calisan 
+        public void CalisanBilgileri()
         {
-            public string Ad;
-            public string Soyad;
-            public int  No;
-            public string Departman;
-
-            public void CalisanBilgileri()
-            {
-                Console.WriteLine("Çalışan Adı: {0}", Ad);
-                Console.WriteLine("Çalışan Soyadı: {0}", Soyad);
-                Console.WriteLine("Çalışan No: {0}", No);
-                Console.WriteLine("Çalışan Departmanı: {0}", Departman);
-            }
+            Console.WriteLine("Çalışan Adı: {0}", Ad);
+            Console.WriteLine("Çalışan Soyadı: {0}", Soyad);
+            Console.WriteLine("Çalışan No: {0}", No);
+            Console.WriteLine("Çalışan Departmanı: {0}", Departman);
         }
     }
 }
