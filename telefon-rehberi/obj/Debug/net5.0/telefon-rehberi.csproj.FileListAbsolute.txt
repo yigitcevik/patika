@@ -1,0 +1,16 @@
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.exe
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.deps.json
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.runtimeconfig.json
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.runtimeconfig.dev.json
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.dll
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\bin\Debug\net5.0\ref\telefon-rehberi.dll
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\bin\Debug\net5.0\telefon-rehberi.pdb
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.csproj.AssemblyReference.cache
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.AssemblyInfoInputs.cache
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.AssemblyInfo.cs
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.csproj.CoreCompileInputs.cache
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.dll
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\obj\Debug\net5.0\ref\telefon-rehberi.dll
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.pdb
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\telefon-rehberi\obj\Debug\net5.0\telefon-rehberi.genruntimeconfig.cache
