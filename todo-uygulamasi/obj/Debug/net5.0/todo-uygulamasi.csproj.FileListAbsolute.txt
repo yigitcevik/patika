@@ -1,0 +1,16 @@
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\bin\Debug\net5.0\todo-uygulamasi.exe
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\bin\Debug\net5.0\todo-uygulamasi.deps.json
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\bin\Debug\net5.0\todo-uygulamasi.runtimeconfig.json
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\bin\Debug\net5.0\todo-uygulamasi.runtimeconfig.dev.json
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\bin\Debug\net5.0\todo-uygulamasi.dll
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\bin\Debug\net5.0\ref\todo-uygulamasi.dll
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\bin\Debug\net5.0\todo-uygulamasi.pdb
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\obj\Debug\net5.0\todo-uygulamasi.csproj.AssemblyReference.cache
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\obj\Debug\net5.0\todo-uygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\obj\Debug\net5.0\todo-uygulamasi.AssemblyInfoInputs.cache
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\obj\Debug\net5.0\todo-uygulamasi.AssemblyInfo.cs
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\obj\Debug\net5.0\todo-uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\obj\Debug\net5.0\todo-uygulamasi.dll
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\obj\Debug\net5.0\ref\todo-uygulamasi.dll
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\obj\Debug\net5.0\todo-uygulamasi.pdb
+C:\Users\cwk26\Desktop\Kodluyoruz\Pratikler\todo-uygulamasi\obj\Debug\net5.0\todo-uygulamasi.genruntimeconfig.cache
